@@ -2,18 +2,6 @@ name: nov25
 channels:
   - conda-forge
 dependencies:
-  - python
   - jupyterlab
-  - mystmd
-  - jupyterlab-myst
-  - pandas
-  - xarray
-  - numpy
   - metpy
   - matplotlib
-  - cartopy 
-  - scipy 
-  - pickle
-  - cmweather 
-  - herbie-data
-  - datetime
